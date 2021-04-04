@@ -1,2 +1,2 @@
-# Jogo-Mem-ria
-Jogo da memória WEB
+# Front-end.School
+Quiz em Javascript e Css
